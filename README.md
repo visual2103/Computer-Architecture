@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MIPS 32 Processor Projects</title>
+   
 </head>
 <body>
     <h1>MIPS 32 Processor Projects</h1>
