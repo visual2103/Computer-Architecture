@@ -22,7 +22,7 @@
     <ul>
         <li><strong>Instruction Types:</strong> Includes R-type, I-type, and J-type instructions.</li>
         <li><strong>Functionality:</strong> The processor supports essential operations like ADD, SUB, LW, SW, and more.</li>
-        <li><strong>Verification:</strong> The design compiles and generates a bitstream but has not been fully verified on the FPGA board due to project timing.</li>
+        <li><strong>Verification:</strong> The design compiles and generates a bitstream , fully verified on the FPGA board .</li>
     </ul>
     <p>For detailed documentation, please refer to the attached files.</p>
 </body>
